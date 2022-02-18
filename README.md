@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Chunkindepadayali/LIZA-MWOL/master/Its-me-liza-mwol.gif" alt="LIZA MWOL" />
+  <img src="https://raw.githubusercontent.com/PBA-Veerabhadhran/PBA_BOT/master/Its-me-liza-mwol.gif" alt="LIZA MWOL" />
 </h1>
   
 ## Setup
@@ -16,18 +16,18 @@
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/Chunkindepadayali/LIZA-MWOL/fork)
+ Click [FORK](https://github.com/PBA-Veerabhadhran/PBA_BOT/fork)
 
 5. Now https://heroku.com/deploy?template=https://github.com/Chunkindepadayali/LIZA-MWOL copy this url and change Chunkindepadayali with your github username and click go<br>
 ## 1. join what's app [bot] group 
 <br>
-<a href="https://chat.whatsapp.com/JPh6rmkqbuo2wdAXvKd7Jn"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-red?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
+<a href="https://chat.whatsapp.com/D3fhKLgNybo7RP4TEKgrFc"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-red?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
    <br> 
 
-## 2. Bot is not allowed here
+## 2. Bot is allowed here
 
  <br>
-<a href="https://chat.whatsapp.com/EfzzqyQ0JANCvyATuhAaKe"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-blue?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
+<a href="https://chat.whatsapp.com/D3fhKLgNybo7RP4TEKgrFc"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-blue?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
    <br>
    
    
