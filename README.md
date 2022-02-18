@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/PBA-Veerabhadhran/PBA_BOT/master/Its-me-liza-mwol.gif" alt="LIZA MWOL" />
+  <img src="https://raw.githubusercontent.com/PBA-Veerabhadhran/PBA_BOT/master/Its-me-PBA_BOT.gif" alt="PBA_BOT" />
 </h1>
   
 ## Setup
